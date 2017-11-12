@@ -35,3 +35,7 @@ body {
     background-color: #146eb4;
     color: #ff9900;
 }
+
+a:link {
+    color: blue;
+}
